@@ -1,2 +1,2 @@
-# C-27
-angryBird stage 2.25
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
